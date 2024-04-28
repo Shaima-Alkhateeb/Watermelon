@@ -61,6 +61,16 @@ hr {
     background: rgba(0, 0, 0, .3);
 }
 
+.image-container-layout--isHistory:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: -81px;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, .3);
+}
+
 .image-overlay {
     position: absolute;
     top: 50%;
@@ -151,6 +161,16 @@ h2 {
 
 .card-item {
   width: 80%;
+}
+
+.p-timeline.p-timeline-vertical .p-timeline-event-opposite,
+.p-timeline.p-timeline-vertical .p-timeline-event-content {
+    padding: 0 1rem; /* Default padding for all screen sizes */
+
+    /* Override padding for extra small (xs) and smaller screens */
+    @screen xs {
+        padding: 0;
+    }
 }
 
 .footer {

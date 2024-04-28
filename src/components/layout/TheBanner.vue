@@ -1,5 +1,5 @@
 <template>
-    <div :class="isHero ? 'image-container-layout--hero' : 'image-container-layout'">
+    <div :class="[isHero ? 'image-container-layout--hero' : 'image-container-layout', isHistory ? 'image-container-layout--isHistory' : 'image-container-layout']">
         <slot name="image"></slot>
 
         <div :class="titleHero ? 'image-overlay--hero' : 'image-overlay'">
@@ -18,6 +18,10 @@ export default {
       default: false,
     },
     titleHero: {
+      type: Boolean,
+      default: false,
+    },
+    isHistory: {
       type: Boolean,
       default: false,
     },

@@ -9,7 +9,7 @@
         </template>
     </the-banner>
 
-    <div class="m-20">
+    <div class="2xl:m-20 sm:m-2">
         <!-- <p class="text-center text-2xl mt-28">Watermelon is an open-source website that lets you learn more about the history, culture, food, and customs of Palestine. I created a section that talks about its history and food, and I am still working on the other parts.</p> -->
         <Card>
             <template #title>About this website ...</template>

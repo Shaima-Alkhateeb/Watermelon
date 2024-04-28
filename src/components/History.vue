@@ -1,5 +1,5 @@
 <template>
-    <the-banner>
+    <the-banner isHistory>
         <template #image>
             <img class="image" alt="Palestine"
                 src="https://images.unsplash.com/photo-1614517453351-6c1522fc7a56?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
@@ -13,8 +13,8 @@
             <h2 class="">A sequence of Palestinian History Since World War I</h2>
         </div> -->
         <div class="text-center m-12 text-xl">
-            <p>Our timeline spans more than two centuries to explain the dramatic chain of events that led to the
-                establishment of a Jewish state in Palestine. Further explore pivotal years in depth through our films.
+            <p class="sm:-mt-4 xs:-mt-4">Our timeline spans more than two centuries to explain the dramatic chain of events that led to the
+                establishment of a Jewish state in Palestine.
             </p>
         </div>
         <!-- smoll card in the head -->
@@ -34,7 +34,7 @@
         <hr>
         <div class="card 2xl:m-12 sm:m-2">
             <div v-for="event in events" :key="event.id" ref="eventRefs">
-                <div class="text-center mx-12 my-10">
+                <div class="text-center 2xl:mx-12 my-10">
                     <p class="text-6xl font-bold text-gray-400">{{ event.mainYear }}</p>
                     <p class="mt-3">{{ event.mainTitle }}<a v-if="event.readMore" :href="event.readMore"
                             class="text-gray-300">

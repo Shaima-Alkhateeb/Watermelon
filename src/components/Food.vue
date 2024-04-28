@@ -11,8 +11,7 @@
     </the-banner>
 
     <div class="container-around">
-        <div class="flex flex-wrap-reverse justify-between py-9 px-12">
-
+        <div class="flex flex-wrap-reverse justify-between py-2 2xl:m-12 sm:m-2 xs:m-2">
             <h2 class="">Most popular Palestinian dishes</h2>
             <IconField iconPosition="left">
                 <InputIcon>
