@@ -29,4 +29,5 @@ coverage
 
 *.tsbuildinfo
 
-*.js  
+FoodData.js
+HistoryData.js  
