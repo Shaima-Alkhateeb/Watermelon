@@ -66,5 +66,10 @@ const items = ref([
         path: '/movie'
         // icon: 'pi pi-star'
     },
+    {
+        label: 'About',
+        path: '/About'
+        // icon: 'pi pi-star'
+    },
 ]);
 </script>

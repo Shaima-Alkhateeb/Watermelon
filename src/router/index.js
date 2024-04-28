@@ -6,6 +6,8 @@ import History from '../components/History.vue'
 import Food from '../components/Food.vue'
 import Clothe from '../components/Clothe.vue'
 import Movie from '../components/Movie.vue'
+import About from '../components/About.vue'
+
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -38,6 +40,11 @@ const router = createRouter({
       path: '/movie',
       name: 'Movie',
       component: Movie
+    },
+    {
+      path: '/about',
+      name: 'About',
+      component: About
     },
   ]
 })
