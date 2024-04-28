@@ -12,7 +12,7 @@
         <!-- <div class="flex flex-wrap justify-between py-9 px-12">
             <h2 class="">A sequence of Palestinian History Since World War I</h2>
         </div> -->
-        <div class="text-center m-12 text-xl">
+        <div class="text-center m-12 sm:mx-2 xs:mx-2 text-xl">
             <p class="sm:-mt-4 xs:-mt-4">Our timeline spans more than two centuries to explain the dramatic chain of events that led to the
                 establishment of a Jewish state in Palestine.
             </p>
