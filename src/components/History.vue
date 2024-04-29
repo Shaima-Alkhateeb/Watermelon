@@ -35,7 +35,7 @@
         <div class="card 2xl:m-12 sm:m-2">
             <div v-for="event in events" :key="event.id" ref="eventRefs">
                 <div class="text-center 2xl:mx-12 my-10">
-                    <p class="text-6xl font-bold text-gray-400">{{ event.mainYear }}</p>
+                    <p class="text-6xl sm:text-5xl xs:text-5xl font-bold text-gray-400">{{ event.mainYear }}</p>
                     <p class="mt-3">{{ event.mainTitle }}<a v-if="event.readMore" :href="event.readMore"
                             class="text-gray-300">
                             READ MORE</a></p>
