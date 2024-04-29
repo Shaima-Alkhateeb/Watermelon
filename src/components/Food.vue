@@ -36,10 +36,8 @@
                 <template #content>
                     <p class="m-0 ">
                         {{ item.desc }}
-                         <!-- <a class="text-gray-300 cursor-pointer" @click="showSidebar">READ MORE</a> -->
                         <TheSidebar :name="item?.name" :img="item?.img" :type="item?.type" :desc="item?.desc"
-                            :ingredients="item?.ingredients" :fullDesc="item?.fullDesc" :visibleRight="visibleRight"
-                            :showSidebar="showSidebar" :countries="item?.countries">
+                            :ingredients="item?.ingredients" :fullDesc="item?.fullDesc"  :countries="item?.countries">
                         </TheSidebar>
                     </p>
                 </template>
@@ -80,9 +78,9 @@ const publishedBooksMessage = computed(() => {
 
 const visibleRight = ref(false);
 
-const showSidebar = () => {
-    visibleRight.value = !visibleRight.value; 
-};
+// const showSidebar = () => {
+//     visibleRight.value = !visibleRight.value; 
+// };
 </script>
 
 <style scoped>

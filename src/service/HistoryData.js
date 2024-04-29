@@ -6,7 +6,7 @@ export const events = ref([
     id: 1,
     mainYear: "1799 – 1946",
     mainTitle:
-      "The British Mandate for Palestine, from 1917 to 1948, laid the real groundwork for a Jewish state in Palestine to become a reality.",
+      "The British Mandate for Palestine played a pivotal role in laying the groundwork for the eventual establishment of a Jewish state in the region. Lasting from 1917 to 1948, this period marked a significant chapter in Palestine's history, setting the stage for profound political and social transformations.",
     subYears: [
       {
         id: 1,
@@ -208,7 +208,7 @@ export const events = ref([
         desc: 'A popular uprising by Palestinian Arabs in Mandatory Palestine against the British administration of the Palestine Mandate, later known as The Great Revolt (Arabic: al-Thawra al-Kubra) or The Great Palestinian Revolt (Thawrat Filastin al-Kubra), lasted from 1936 until 1939, demanding Arab independence and the end of the policy of open-ended Jewish immigration and land purchases with the stated goal of establishing a "Jewish National Home".',
         readMore:
           "https://en.wikipedia.org/wiki/1936%E2%80%931939_Arab_revolt_in_Palestine",
-        // readMore: 'https://www.palquest.org/en/highlight/158/great-arab-revolt-1936-1939'
+        // readMore: 'https://www.palquest.org/en/highlight/158/great-arab-revolt-1936-1939' //another resource
       },
       {
         id: 18,
@@ -241,7 +241,7 @@ export const events = ref([
     id: 2,
     mainYear: "1947 - 1949",
     mainTitle:
-      "Over 80 percent of Palestinians in what became Israel were expelled and approximately 80 percent of Palestinian land was seized by Zionists",
+      "In the years spanning from 1947 to 1949, a tragic chapter unfolded as over 80 percent of Palestinians residing in what would later become Israel were forcibly expelled from their homes. Additionally, nearly 80 percent of Palestinian land fell into the hands of Zionist settlers, marking a profound and devastating loss for the Palestinian people",
     readMore: "https://en.wikipedia.org/wiki/1948_Palestine_war",
     subYears: [
       {
@@ -380,7 +380,7 @@ export const events = ref([
     id: 3,
     mainYear: "1950 - 1967",
     mainTitle:
-      "After the tumultuous events of 1948, 150,000 Palestinians remained in Israel and were eventually granted citizenship. However, they were subjected to military rule until 1966. After the conquest of the West Bank and Gaza Strip in 1967, Israel began its military control over Palestinians living in the Occupied Palestinian Territory.",
+      "The aftermath of the tumultuous events of 1948 left a lasting impact on the Palestinian population. Despite the displacement of many, around 150,000 Palestinians remained in Israel and were eventually granted citizenship. However, their rights were severely constrained under military rule until 1966. Following the conquest of the West Bank and Gaza Strip in 1967, Israel extended its military control over Palestinians residing in the Occupied Palestinian Territory, marking a pivotal shift in the dynamics of the region.",
     subYears: [
       {
         id: 1,
@@ -482,7 +482,7 @@ export const events = ref([
     id: 4,
     mainYear: "1968 - 1992",
     mainTitle:
-      "Following Israel's occupation of the rest of historic Palestine, it began building settlements in the West Bank and Gaza Strip. In these colonies, Jewish settlers are allowed to carry weapons under the protection of the Israeli army. In 1987, after 20 years of brutal military occupation, the First Intifada began in the Occupied Palestinian Territory.",
+      "Israel's occupation of the remaining territories of historic Palestine marked a period of significant expansion as it initiated the construction of settlements in the West Bank and Gaza Strip. Within these settlements, Jewish settlers were permitted to carry weapons under the protection of the Israeli army. Amidst these developments, the year 1987 witnessed a pivotal moment as the First Intifada erupted in the Occupied Palestinian Territory, following two decades of harsh military occupation. This uprising served as a powerful expression of resistance against the oppressive conditions faced by Palestinians.",
     subYears: [
       {
         id: 1,
@@ -544,10 +544,10 @@ export const events = ref([
       {
         id: 4,
         title:
-          "Israel Confiscates Thousands Of Hectares Of Land From Palestinian Citizens. Mass Protests Organised In Response Were Brutally Put Down",
+          "(Land Day) - Israel Confiscates Thousands Of Hectares Of Land From Palestinian Citizens. Mass Protests Organised In Response Were Brutally Put Down",
         color: "#b08a06",
         year: "1976",
-        // date: '	28-May-1964',
+        date: '30-March-1976',
         image:
           "https://www.palquest.org/sites/default/files/media/main_image43213_G7QLjlZ59g.jpg",
         desc: "At the end of the year the Israeli authorities decided to confiscate about 3,000 dunams (about 740 acres) of land owned by the people of Kafr Qasim , a village where a horrible massacre had taken place about twenty years earlier. The confiscation decision was followed by a police decision in early February 1976 to refuse permits to farmers from the villages of Arraba , Sakhnin , and Deir Hanna to access their land in the al-Mill area, a small part of Zone 9, which was used for military training. The police told them that anyone entering the area would be committing a felony.",
@@ -590,13 +590,13 @@ export const events = ref([
             id: 2,
             name: "September",
             title:
-              "Sabra and Shatila Massacre, killings  Between 460 And 3,500 Civilians",
+              "Sabra and Shatila Massacre, killings  Between 700 And 3,500 Civilians",
             date: "16–18 September-1982",
             image:
               "https://upload.wikimedia.org/wikipedia/en/c/c4/Bodies_of_victims_of_the_massacre_in_the_Sabra_and_the_Shatila_refugee_camp.jpg",
-            desc: "The Sabra and Shatila massacre was the 16–18 September 1982 killings of between 460 and 3,500 civilians—mostly Palestinians and Lebanese Shias—in the city of Beirut during the Lebanese Civil War. It was perpetrated by the Lebanese Forces, one of the main Christian militias in Lebanon, and supported by the Israel Defense Forces (IDF) that had surrounded Beirut's Sabra neighbourhood and the adjacent Shatila refugee camp.",
+            desc: "The Sabra and Shatila massacre was the 16–18 September 1982 killings of between 700 and 3,500 civilians—mostly Palestinians and Lebanese Shias—in the city of Beirut during the Lebanese Civil War. It was perpetrated by the Lebanese Forces, one of the main Christian militias in Lebanon, and supported by the Israel Defense Forces (IDF) that had surrounded Beirut's Sabra neighbourhood and the adjacent Shatila refugee camp.",
             readMore:
-              "https://en.wikipedia.org/wiki/International_Day_of_Solidarity_with_the_Palestinian_People",
+              "https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre",
           },
           {
             id: 3,
@@ -630,7 +630,7 @@ export const events = ref([
           "The PLO Accepts Un Resolutions 242 And 338, Recognising The State Of Israel",
         color: "#b08a06",
         year: "1988",
-        date: "15-November-1953",
+        date: "15-November-1988",
         // image: 'https://s3.amazonaws.com/ingeveb/images/qibya.jpg',
         desc: "On November 15, 1988, the independence of Palestine was proclaimed by the Palestinian National Council, established in Algiers. The UN partition plan of 1947 was also accepted, with the division of historic Palestine into two states, one Palestinian and one Jewish. A month later in Geneva, at the UN General Assembly, Yasser Arafat made a speech that reiterated the independence of Palestine and confirmed the PLO's renunciation of all forms of terrorist violence. Arafat presented the new contours of PLO policy: acceptance of all UN resolutions and affirmation of the will to compromise. Arafat also explicitly referred to UN Security Council Resolution 242, which recognizes the rights of all states to sovereignty, and likewise backed the idea of an international conference for peace in the Middle East, favored by the UN and the USSR but opposed by Israel.",
         readMore: "https://genevemonde.ch/entries/Nlmzk2D0kPJ",
@@ -661,9 +661,9 @@ export const events = ref([
   },
   {
     id: 5,
-    mainYear: "1993 - 2015",
+    mainYear: "1993 - 2024",
     mainTitle:
-      "The secret negotiations between the PLO and Israel that concluded in 1993 heralded a new chapter of modern Palestinian history. For some, the Oslo Accords raised hopes for peace. For others, it dashed them entirely.",
+      "From 1993 to 2024, the Palestinian territories witnessed a complex series of events that shaped the political, social, and economic landscape of the region. The period began with the signing of the Oslo Accords in 1993, which aimed to establish a framework for peace negotiations between Israel and the Palestinian Liberation Organization (PLO). Despite initial hopes for a resolution to the conflict, subsequent years were marked by continued violence, territorial disputes, and stalled peace talks.",
     subYears: [
       {
         id: 1,
@@ -925,7 +925,7 @@ export const events = ref([
             id: 2,
             name: "December",
             title:
-              "Israel Attacks The Gaza Strip In What It Calls (The Battle Of Al-Furqan)",
+              "Operation Cast Lead, a 22-day affair that began in December of 2008, eliminated some 1,400 Palestinians, 300 of them children, and the vast majority of them civilians. (The Battle Of Al-Furqan)",
             date: "27-December-2008 to 18-January-2009",
             image:
               "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg",
@@ -937,112 +937,128 @@ export const events = ref([
       },
       {
         id: 10,
-        title:
-          "Israel Attacks Gaza Once More, In What It Calls “Operation Pillar Of Defense”",
         color: "#6e3428",
         year: "2012",
-        date: "14–21 November-2012",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/DestrAlDaluHouse.jpg/1280px-DestrAlDaluHouse.jpg",
-        desc: "On November 14, 2012, Israel killed Ahmed Jabari, chief of Hamas' military wing in Gaza, in a targeted air strike on his car in Gaza City. Hamas responded by firing a barrage of rockets at nearby Israeli towns. Israel then embarked on an eight-day military offensive on Gaza, which it called Operation Pillar of Defense. Hamas said the rockets were fired as a reaction to the blockade on Gaza and the occupation of the West Bank. Israel claimed that the operation was a response to an increase in the number of rockets fired into Israeli territory in the days and weeks preceding the operation. One of the Israeli Airstrike on Home Unlawful, on November 18, 2012, Israeli forces dropped what appears to have been a large aerial bomb on the three-story home of the Dalu family in Gaza City, killing 10 members of the household – one man, five women, and four children. A young man and an elderly woman of the Muzannar family next door were also killed.",
-        readMore:
-          "https://www.hrw.org/news/2012/12/07/israel/gaza-israeli-airstrike-home-unlawful",
+          months: [
+            {
+              id: 1,
+              name: "November",
+              title:
+                "Israel Attacks Gaza Once More, In What It Calls “Operation Pillar Of Defense”",
+              date: "14–21 November-2012",
+              image:
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/DestrAlDaluHouse.jpg/1280px-DestrAlDaluHouse.jpg",
+            desc: "On November 14, 2012, Israel killed Ahmed Jabari, chief of Hamas' military wing in Gaza, in a targeted air strike on his car in Gaza City. Hamas responded by firing a barrage of rockets at nearby Israeli towns. Israel then embarked on an eight-day military offensive on Gaza, which it called Operation Pillar of Defense. Hamas said the rockets were fired as a reaction to the blockade on Gaza and the occupation of the West Bank. Israel claimed that the operation was a response to an increase in the number of rockets fired into Israeli territory in the days and weeks preceding the operation. One of the Israeli Airstrike on Home Unlawful, on November 18, 2012, Israeli forces dropped what appears to have been a large aerial bomb on the three-story home of the Dalu family in Gaza City, killing 10 members of the household – one man, five women, and four children. A young man and an elderly woman of the Muzannar family next door were also killed.",
+            readMore:
+              "https://www.hrw.org/news/2012/12/07/israel/gaza-israeli-airstrike-home-unlawful",
+
+              secondTitle:
+              "The United Nations General Assembly votes to upgrade Palestine's status to a non-member observer state.",
+            secondDate: "29-November-2012",
+            secondImage:
+              "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-04-2024-UN-Photo-Palestine.jpg/image1170x530cropped.jpg",
+            secondDesc:
+              'The 193-member U.N. body voted 138 to 9, with 41 abstentions, to recognize Palestine as a “non-member observer state,” a status that falls well short of independence but provides Palestinians with limited privileges as a state, including the right to join the International Criminal Court and other international treaty bodies.',
+            secondReadMore:
+              "https://www.washingtonpost.com/world/national-security/united-nations-upgrades-palestines-status/2012/11/29/5ff5ff7e-3a72-11e2-8a97-363b0f9a0ab3_story.html",
+            },
+          ],
       },
       {
         id: 11,
         title:
-          "Israel Launches The Biggest Assault On Gaza Since 1967, “Operation Protective Edge”",
+          "Operation Protective Edge – The Israeli military slaughtered no fewer than 2,251 people in Gaza, among them 551 children",
         color: "#6e3428",
         year: "2014",
-        // date: '29-October-1956',
-        // image: 'https://www.palestinechronicle.com/wp-content/uploads/2022/07/Kafr-Qasem-678x455.png',
-        // desc: 'The Kafr Qasim massacre took place in the Israeli Arab village of Kafr Qasim situated on the Green Line, at that time, the de facto border between Israel and the Jordanian West Bank on October 29, 1956. It was carried out by the Israel Border Police (Magav), who killed Arab civilians returning from work during a curfew of which they were unaware, imposed earlier in the day on the eve of the Sinai War. In total 48 people died, of whom 19 were men, 6 were women and 23 were children aged 8–17. Arab sources usually give the death toll as 49, as they include the unborn child of one of the women.',
-        // readMore: 'https://en.wikipedia.org/wiki/Kafr_Qasim_massacre'
+        date: '8 July – 26 August 2014',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/b/b9/The_home_of_the_Kware%27_family%2C_after_it_was_bombed_by_the_military.jpg',
+        desc: 'The 2014 Gaza War is a military conflict between Israel and the Palestinian resistance movements in the Gaza Strip. It actually began on July 8, 2014, which the Israeli army called Operation Protective Edge. The Izz al-Din al-Qassam Brigades responded with the Battle of the Assembled Storm, and the Islamic Jihad movement responded with Operation Al-Bunyan Al-Marsous after a wave of violence that erupted with kidnapping. The torture and burning of the child Muhammad Abu Khudair from Shuafat at the hands of a group of settlers on July 2, 2014, and the re-arrest of dozens of editors of the Shalit deal, followed by widespread protests in Jerusalem and within the Arabs of 1948 as well as areas of the West Bank, and their pace intensified after an Israeli ran over two Arab workers near Haifa, and the escalation included mutual bombing between Israel and the Palestinian resistance in the Gaza Strip. This war included several military operations, such as Operation Nahal Oz and Operation 10th of Ramadan.',
+        readMore: 'https://www.aljazeera.net/encyclopedia/2015/7/7/%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%84%D9%89-%D8%BA%D8%B2%D8%A9-2014'
       },
-      {
-        id: 12,
-        title:
-          "Israel Holds Early Elections For The 20th Kenesset. The Likud Party, Led By Benjamin Netanyahu, Wins Again.",
-        color: "#6e3428",
-        year: "2015",
+      // {
+      //   id: 12,
+      //   title:
+      //     "Israel Holds Early Elections For The 20th Kenesset. The Likud Party, Led By Benjamin Netanyahu, Wins Again.",
+      //   color: "#6e3428",
+      //   year: "2015",
         // date: '	28-May-1964',
         // image: 'https://www.prc.ps/wp-content/uploads/2018/06/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1.png',
         // desc: 'During the decade from 1958 to 1968, a foundational development occurred in modern Palestinian history. It started as the notion of creating a Palestinian political entity emerged and took shape in the Palestine Liberation Organization (PLO), and as Palestinians on the grassroots level organized themselves in groups and cells calling for armed struggle against Israel. By 1968, guerrilla organizations controlled the PLO and transformed it from a mere handmaid of Arab regimes to an independent and mobilizing decision-maker.',
         // readMore: 'https://www.palquest.org/en/highlight/162/palestine-liberation-organization-i'
-      },
+      // },
       {
         id: 13,
         title:
           "UN Security Council adopts resolution 2334, stating that Israel’s settlement activity constitutes a “flagrant violation” of international law and has “no legal validity”",
         color: "#6e3428",
         year: "2016",
-        // date: '14–21 November-2012',
-        // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/DestrAlDaluHouse.jpg/1280px-DestrAlDaluHouse.jpg',
-        // desc: 'On November 14, 2012, Israel killed Ahmed Jabari, chief of Hamas\' military wing in Gaza, in a targeted air strike on his car in Gaza City. Hamas responded by firing a barrage of rockets at nearby Israeli towns. Israel then embarked on an eight-day military offensive on Gaza, which it called Operation Pillar of Defense. Hamas said the rockets were fired as a reaction to the blockade on Gaza and the occupation of the West Bank. Israel claimed that the operation was a response to an increase in the number of rockets fired into Israeli territory in the days and weeks preceding the operation. One of the Israeli Airstrike on Home Unlawful, on November 18, 2012, Israeli forces dropped what appears to have been a large aerial bomb on the three-story home of the Dalu family in Gaza City, killing 10 members of the household – one man, five women, and four children. A young man and an elderly woman of the Muzannar family next door were also killed.',
-        // readMore: 'https://www.hrw.org/news/2012/12/07/israel/gaza-israeli-airstrike-home-unlawful'
+        date: '23-December-2016',
+        image: 'https://reliefweb.int/sites/default/files/styles/large/public/previews/d0/11/d01179a7-e6ce-4e1a-aefa-49d489c86fb0.png',
+        desc: 'In its resolution 2334 (2016), the Security Council reaffirmed that the establishment by Israel of settlements in the Palestinian territory occupied since 1967, including East Jerusalem, had no legal validity and constituted a flagrant violation under international law and a major obstacle to the achievement of the two-State solution and a just, lasting and comprehensive peace. The Council reiterated its demand that Israel immediately and completely cease all settlement activities in the Occupied Palestinian Territory, including East Jerusalem, and that it fully respect all of its legal obligations in that regard. No such steps were taken during the reporting period as settlement activities continued.',
+        readMore: 'https://reliefweb.int/report/occupied-palestinian-territory/implementation-security-council-resolution-2334-2016-report-secretary-general-s2023458-enar#:~:text=In%20its%20resolution%202334%20(2016,the%20achievement%20of%20the%20two'
       },
       {
         id: 14,
         title:
-          "The U.S. Formally Recognizes Jerusalem as the Capital of Israel",
+          "The U.S. Formally Recognizes Jerusalem as the Capital of Israel, sparking widespread condemnation and protests in Palestine and across the Arab world.",
         color: "#6e3428",
         year: "2017",
         date: "6-December-2017",
-        // image: 'https://www.palestinechronicle.com/wp-content/uploads/2022/07/Kafr-Qasem-678x455.png',
-        // desc: 'The Kafr Qasim massacre took place in the Israeli Arab village of Kafr Qasim situated on the Green Line, at that time, the de facto border between Israel and the Jordanian West Bank on October 29, 1956. It was carried out by the Israel Border Police (Magav), who killed Arab civilians returning from work during a curfew of which they were unaware, imposed earlier in the day on the eve of the Sinai War. In total 48 people died, of whom 19 were men, 6 were women and 23 were children aged 8–17. Arab sources usually give the death toll as 49, as they include the unborn child of one of the women.',
-        // readMore: 'https://en.wikipedia.org/wiki/Kafr_Qasim_massacre'
+        image: 'https://assets.nst.com.my/images/articles/08_jerus_1512606563.jpg',
+        desc: 'On December 6, 2017, the United States of America officially recognized Jerusalem as the capital city of the State of Israel. American President Donald Trump, who signed the presidential proclamation, also ordered the relocation of the American diplomatic mission to Jerusalem from Tel Aviv, constituting what is now the Embassy of the United States in Jerusalem, which was established on the grounds of the former Consulate General of the United States in Jerusalem. Israeli Prime Minister Benjamin Netanyahu welcomed the decision and praised the announcement by the Trump administration. On December 8, U.S. Secretary of State Rex Tillerson clarified that Trump\'s statement "did not indicate any final status for Jerusalem" and "was very clear that the final status, including the borders, would be left to the two parties to negotiate and decide" in reference to the recognition\'s impact on the Israeli–Palestinian peace process.',
+        readMore: 'https://en.wikipedia.org/wiki/United_States_recognition_of_Jerusalem_as_capital_of_Israel#:~:text=On%20December%206%2C%202017%2C%20the,of%20the%20State%20of%20Israel.'
       },
       {
         id: 15,
         title:
-          "United States moves its embassy in Israel from Tel Aviv to Jerusalem",
+          "Palestinian protests along the Gaza-Israel border escalated into the Great March of Return, calling for the right of return for Palestinian refugees and an end to the Israeli blockade of Gaza.",
         color: "#6e3428",
         year: "2018",
-        // date: '	28-May-1964',
-        // image: 'https://www.prc.ps/wp-content/uploads/2018/06/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1.png',
-        // desc: 'During the decade from 1958 to 1968, a foundational development occurred in modern Palestinian history. It started as the notion of creating a Palestinian political entity emerged and took shape in the Palestine Liberation Organization (PLO), and as Palestinians on the grassroots level organized themselves in groups and cells calling for armed struggle against Israel. By 1968, guerrilla organizations controlled the PLO and transformed it from a mere handmaid of Arab regimes to an independent and mobilizing decision-maker.',
-        // readMore: 'https://www.palquest.org/en/highlight/162/palestine-liberation-organization-i'
+        date: '30-March-2018',
+        image: 'https://ca-times.brightspotcdn.com/dims4/default/4a1f8ff/2147483647/strip/true/crop/2046x1151+0+0/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F99%2F03%2F3cce9a48b9041050e6fa84768228%2Fla-1525564196-v91hmgk8b9-snap-image',
+        desc: 'Every Friday for the past year, Palestinians in Gaza have protested along the fence separating the besieged strip from Israel. They are demanding the right to return to their ancestors’ homes, which they were expelled from in 1948 when Zionist militias forcefully removed 750,000 Palestinians from their villages to clear the way for Israel’s creation. The protesters are also demanding an end to the 12-year-long Israeli blockade, which the United Nations says amounts to collective punishment.',
+        readMore: 'https://www.aljazeera.com/news/2019/3/30/gazas-great-march-of-return-protests-explained'
       },
       {
         id: 16,
-        title: "The U.S. Recognizes Israeli Sovereignty Over the Golan Heights",
+        title: "The Trump administration unveils its Middle East peace plan, known as the \"Deal of the Century,\" which is rejected by Palestinian leaders as biased towards Israel and failing to address key Palestinian demands.",
         color: "#6e3428",
         year: "2019",
         date: "25-March-2019",
         // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/DestrAlDaluHouse.jpg/1280px-DestrAlDaluHouse.jpg',
-        // desc: 'On November 14, 2012, Israel killed Ahmed Jabari, chief of Hamas\' military wing in Gaza, in a targeted air strike on his car in Gaza City. Hamas responded by firing a barrage of rockets at nearby Israeli towns. Israel then embarked on an eight-day military offensive on Gaza, which it called Operation Pillar of Defense. Hamas said the rockets were fired as a reaction to the blockade on Gaza and the occupation of the West Bank. Israel claimed that the operation was a response to an increase in the number of rockets fired into Israeli territory in the days and weeks preceding the operation. One of the Israeli Airstrike on Home Unlawful, on November 18, 2012, Israeli forces dropped what appears to have been a large aerial bomb on the three-story home of the Dalu family in Gaza City, killing 10 members of the household – one man, five women, and four children. A young man and an elderly woman of the Muzannar family next door were also killed.',
-        // readMore: 'https://www.hrw.org/news/2012/12/07/israel/gaza-israeli-airstrike-home-unlawful'
+        desc: 'Proposing an economic approach to resolve the Palestinian-Israeli conflict is nothing new and it was definitely not pioneered by President Donald Trump and his adviser and son-in-law Jared Kushner. It was put forward many times in the past by both the Israeli side, most prominently represented by Israeli leader Shimon Peres and his New Middle East vision, and by various international mediators, including the Quartet on the Middle East, which was created by the UN, US, EU and Russia after the Second Intifada.',
+        readMore: 'https://www.aljazeera.com/opinions/2019/6/29/the-deal-of-the-century-as-a-deliberate-deception'
       },
       {
         id: 17,
-        // title:
-        //   "The U.S. Formally Recognizes Jerusalem as the Capital of Israel",
+        title:
+          "The normalization agreements, known as the \"Abraham Accords\", are signed between Israel and several Arab countries, including the United Arab Emirates, Bahrain, Sudan, and Morocco, bypassing Palestinian objections.",
         color: "#6e3428",
         year: "2020",
-        // date: '6-December-2017',
-        // image: 'https://www.palestinechronicle.com/wp-content/uploads/2022/07/Kafr-Qasem-678x455.png',
-        // desc: 'The Kafr Qasim massacre took place in the Israeli Arab village of Kafr Qasim situated on the Green Line, at that time, the de facto border between Israel and the Jordanian West Bank on October 29, 1956. It was carried out by the Israel Border Police (Magav), who killed Arab civilians returning from work during a curfew of which they were unaware, imposed earlier in the day on the eve of the Sinai War. In total 48 people died, of whom 19 were men, 6 were women and 23 were children aged 8–17. Arab sources usually give the death toll as 49, as they include the unborn child of one of the women.',
-        // readMore: 'https://en.wikipedia.org/wiki/Kafr_Qasim_massacre',
-        months: [
-          {
-            id: 1,
-            name: "January",
-            title: "Trump Administration Launches Proposed Peace Plan",
-            date: "28-January-2020",
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 2,
-            name: "September",
-            title: "Relations between Some Arab Countries and Israel Normalize",
-            date: "15-September-2020",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-        ],
+        date: '15-September-2020',
+        image: 'https://www.aljazeera.com/wp-content/uploads/2020/09/983554e8baad42a396d9584df54ce644_18.jpeg?resize=770%2C513&quality=80',
+        desc: 'The Abraham Accords are bilateral agreements on Arab–Israeli normalization signed between Israel and the United Arab Emirates and between Israel and Bahrain on September 15, 2020. Mediated by the United States, the announcement of August 13, 2020, concerned Israel and the UAE before the subsequent announcement of an agreement between Israel and Bahrain on September 11, 2020. On September 15, 2020, the signing of the agreements was hosted by US President Trump on the Truman Balcony of the White House amid elaborate staging intended to evoke the signings of historic formal peace treaties in prior administrations. Months after the two Arab nations signed on, two more joined the accords, Morocco and Sudan, and it seemed like the US was possibly on track to sign up even more Arab countries.',
+        readMore: 'https://en.wikipedia.org/wiki/Abraham_Accords',
+        // months: [
+        //   {
+        //     id: 1,
+        //     name: "January",
+        //     title: "Trump Administration Launches Proposed Peace Plan",
+        //     date: "28-January-2020",
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 2,
+        //     name: "September",
+        //     title: "Relations between Some Arab Countries and Israel Normalize",
+        //     date: "15-September-2020",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        // ],
       },
       {
         id: 18,
@@ -1050,10 +1066,10 @@ export const events = ref([
           "The Battle of the Sword of Jerusalem (Operation Guardian of the Walls)",
         color: "#6e3428",
         year: "2021",
-        // date: '	28-May-1964',
-        // image: 'https://www.prc.ps/wp-content/uploads/2018/06/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1.png',
-        // desc: 'During the decade from 1958 to 1968, a foundational development occurred in modern Palestinian history. It started as the notion of creating a Palestinian political entity emerged and took shape in the Palestine Liberation Organization (PLO), and as Palestinians on the grassroots level organized themselves in groups and cells calling for armed struggle against Israel. By 1968, guerrilla organizations controlled the PLO and transformed it from a mere handmaid of Arab regimes to an independent and mobilizing decision-maker.',
-        // readMore: 'https://www.palquest.org/en/highlight/162/palestine-liberation-organization-i'
+        date: '6–21 May 2021',
+        image: 'https://image.cnbcfm.com/api/v1/image/106881775-1620818853850-gettyimages-1232835670-AFP_99T4QM.jpeg?v=1620818898&w=720&h=405',
+        desc: ' The crisis was triggered on 6 May, when Palestinians in East Jerusalem began protesting over an anticipated decision of the Supreme Court of Israel on the eviction of six Palestinian families in the East Jerusalem neighborhood of Sheikh Jarrah. Under international law, the area, effectively annexed by Israel in 1980, is a part of the Israeli-occupied West Bank. On the afternoon of 10 May, Hamas gave Israel an ultimatum to withdraw its security forces from both the Temple Mount complex and Sheikh Jarrah by 6 p.m. When the ultimatum expired without a response, both Hamas and PIJ launched rockets from the Gaza Strip into Israel; some of these rockets hit Israeli residences and a school. Israel then began a campaign of airstrikes against Gaza; by 16 May, some 950 targets had been attacked, demolishing completely or partially 18 buildings, including four high-rise towers, 40 schools, and four hospitals, while also striking the al-Shati refugee camp. Additionally, at least 19 medical facilities were damaged or destroyed by the Israeli bombardment. By 17 May, the United Nations estimated that Israeli airstrikes had destroyed 94 buildings in Gaza, comprising 461 housing and commercial units, including the al-Jalaa Highrise; housing offices of the Associated Press, the Al Jazeera Media Network, and other news outlets; and 60 condominiums.',
+        readMore: 'https://en.wikipedia.org/wiki/2021_Israel%E2%80%93Palestine_crisis#cite_note-OHCHR-22'
       },
       {
         id: 19,
@@ -1068,13 +1084,13 @@ export const events = ref([
         months: [
           {
             id: 1,
-            // name: "January",
+            name: "August",
             title:
-              "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '28-January-2020',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+              "Operation Breaking Dawn",
+            date: '5–7 August 2022',
+            image: 'https://mondoweiss.net/wp-content/uploads/2022/08/operation-breaking-dawn-profiles-feature.jpg',
+            desc: 'During the three-day Israeli assault on Gaza between August 5 – 7, 2022, now known as Operation Breaking Dawn, 49 Palestinians were killed, including 17 children. The Israel Defense Forces (IDF) conducted some 147 airstrikes in Gaza.',
+            readMore: 'https://mondoweiss.net/2022/09/israels-operation-breaking-dawn-killed-49-palestinians-these-are-their-stories/'
           },
           {
             id: 2,
@@ -1082,9 +1098,9 @@ export const events = ref([
             title:
               "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
             date: "30-November-2022",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+            // image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYEywAZQYAI9NZ92DSEhZnwBZzFoml5RnDFfPpPbXSw&s',
             // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+            readMore: 'https://www.un.org/unispal/wp-content/uploads/2022/12/A.RES_.77.23_301122.pdf'
           },
         ],
       },
@@ -1093,7 +1109,7 @@ export const events = ref([
         title: "The Battle of Al-Aqsa Flood",
         color: "#6e3428",
         year: "2023",
-        date: "7-October-2023",
+        // date: "7-October-2023",
         // image: 'https://www.prc.ps/wp-content/uploads/2018/06/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1.png',
         // desc: 'During the decade from 1958 to 1968, a foundational development occurred in modern Palestinian history. It started as the notion of creating a Palestinian political entity emerged and took shape in the Palestine Liberation Organization (PLO), and as Palestinians on the grassroots level organized themselves in groups and cells calling for armed struggle against Israel. By 1968, guerrilla organizations controlled the PLO and transformed it from a mere handmaid of Arab regimes to an independent and mobilizing decision-maker.',
         // readMore: 'https://www.palquest.org/en/highlight/162/palestine-liberation-organization-i',
@@ -1324,531 +1340,214 @@ export const events = ref([
               // ref: 'https://www.aljazeera.net/news/2023/10/9/%D8%B7%D9%88%D9%81%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D8%AA%D8%B3%D9%84%D8%B3%D9%84-%D8%B2%D9%85%D9%86%D9%8A-%D9%84%D8%A3%D9%87%D9%85-%D9%85%D8%AD%D8%B7%D8%A7%D8%AA'
             ],
           },
-          {
-            id: 5,
-            name: "11-October",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 6,
-            name: "12-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            image: 'https://www.aljazeera.com/wp-content/uploads/2023/10/Interactive_Live-tracker_Gaza_October12_2023_1410GMT_Casualty-tracker-October-12-1697120862.jpg?w=770&resize=770%2C770',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 7,
-            name: "13-October",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 8,
-            name: "14-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 9,
-            name: "15-October",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 10,
-            name: "16-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            image: 'https://www.aljazeera.com/wp-content/uploads/2023/10/INTERACTIVE-Israel-Gaza-war-Casualty-tracker-October-16-1697431380.png?w=770&resize=770%2C770',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 11,
-            name: "17-October",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 12,
-            name: "18-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 13,
-            name: "19-October",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            image: 'https://www.aljazeera.com/wp-content/uploads/2023/10/INTERACTIVE-Israel-Gaza-war-Casualty-tracker-October-19-1697698974.png?w=770&resize=770%2C770',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 14,
-            name: "20-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 15,
-            name: "21-October",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 16,
-            name: "22-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 17,
-            name: "23-October",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 18,
-            name: "24-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 19,
-            name: "25-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 20,
-            name: "26-October",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 21,
-            name: "27-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 22,
-            name: "28-October",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 23,
-            name: "29-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 24,
-            name: "30-October",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 25,
-            name: "31-October",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
+          // {
+          //   id: 5,
+          //   name: "11-October",
+          // },
+          // {
+          //   id: 6,
+          //   name: "12-October",
+          //   image: 'https://www.aljazeera.com/wp-content/uploads/2023/10/Interactive_Live-tracker_Gaza_October12_2023_1410GMT_Casualty-tracker-October-12-1697120862.jpg?w=770&resize=770%2C770',
+          // },
+          // {
+          //   id: 7,
+          //   name: "13-October",
+          // },
+          // {
+          //   id: 8,
+          //   name: "14-October",
+          // },
+          // {
+          //   id: 9,
+          //   name: "15-October",
+          // },
+          // {
+          //   id: 10,
+          //   name: "16-October",
+          //   image: 'https://www.aljazeera.com/wp-content/uploads/2023/10/INTERACTIVE-Israel-Gaza-war-Casualty-tracker-October-16-1697431380.png?w=770&resize=770%2C770',
+          // },
+          // {
+          //   id: 11,
+          //   name: "17-October",
+          // },
+          // {
+          //   id: 12,
+          //   name: "18-October",
+          // },
+          // {
+          //   id: 13,
+          //   name: "19-October",
+          //   image: 'https://www.aljazeera.com/wp-content/uploads/2023/10/INTERACTIVE-Israel-Gaza-war-Casualty-tracker-October-19-1697698974.png?w=770&resize=770%2C770',
+          // },
+          // {
+          //   id: 14,
+          //   name: "20-October",
+          // },
+          // {
+          //   id: 15,
+          //   name: "21-October",
+          // },
+          // {
+          //   id: 16,
+          //   name: "22-October",
+          // },
+          // {
+          //   id: 17,
+          //   name: "23-October",
+          // },
+          // {
+          //   id: 18,
+          //   name: "24-October",
+          // },
+          // {
+          //   id: 19,
+          //   name: "25-October",
+          // },
+          // {
+          //   id: 20,
+          //   name: "26-October",
+          // },
+          // {
+          //   id: 21,
+          //   name: "27-October",
+          // },
+          // {
+          //   id: 22,
+          //   name: "28-October",
+          // },
+          // {
+          //   id: 23,
+          //   name: "29-October",
+          // },
+          // {
+          //   id: 24,
+          //   name: "30-October",
+          // },
+          // {
+          //   id: 25,
+          //   name: "31-October",
+          // },
 
-          //November
-          {
-            id: 1,
-            name: "1-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 2,
-            name: "2-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 3,
-            name: "3-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 4,
-            name: "4-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 5,
-            name: "5-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 6,
-            name: "6-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 7,
-            name: "7-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 8,
-            name: "8-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 9,
-            name: "9-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 10,
-            name: "10-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 11,
-            name: "11-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 12,
-            name: "12-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 13,
-            name: "13-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 14,
-            name: "14-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 15,
-            name: "15-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 16,
-            name: "16-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 17,
-            name: "17-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 18,
-            name: "18-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 19,
-            name: "19-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 20,
-            name: "20-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 21,
-            name: "21-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 22,
-            name: "22-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 23,
-            name: "23-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 24,
-            name: "24-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 25,
-            name: "25-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 26,
-            name: "26-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 27,
-            name: "27-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 28,
-            name: "28-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 29,
-            name: "29-November",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-November-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 30,
-            name: "30-November",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-November-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-
-          //April
+          // //November
+          // {
+          //   id: 1,
+          //   name: "1-November",
+          // },
+          // {
+          //   id: 2,
+          //   name: "2-November",
+          // },
+          // {
+          //   id: 3,
+          //   name: "3-November",
+          // },
+          // {
+          //   id: 4,
+          //   name: "4-November",
+          // },
+          // {
+          //   id: 5,
+          //   name: "5-November",
+          // },
+          // {
+          //   id: 6,
+          //   name: "6-November",
+          // },
+          // {
+          //   id: 7,
+          //   name: "7-November",
+          // },
+          // {
+          //   id: 8,
+          //   name: "8-November",
+          // },
+          // {
+          //   id: 9,
+          //   name: "9-November",
+          // },
+          // {
+          //   id: 10,
+          //   name: "10-November",
+          // },
+          // {
+          //   id: 11,
+          //   name: "11-November",
+          // },
+          // {
+          //   id: 12,
+          //   name: "12-November",
+          // },
+          // {
+          //   id: 13,
+          //   name: "13-November",
+          // },
+          // {
+          //   id: 14,
+          //   name: "14-November",
+          // },
+          // {
+          //   id: 15,
+          //   name: "15-November",
+          // },
+          // {
+          //   id: 16,
+          //   name: "16-November",
+          // },
+          // {
+          //   id: 17,
+          //   name: "17-November",
+          // },
+          // {
+          //   id: 18,
+          //   name: "18-November",
+          // },
+          // {
+          //   id: 19,
+          //   name: "19-November",
+          // },
+          // {
+          //   id: 20,
+          //   name: "20-November",
+          // },
+          // {
+          //   id: 21,
+          //   name: "21-November",
+          // },
+          // {
+          //   id: 22,
+          //   name: "22-November",
+          // },
+          // {
+          //   id: 23,
+          //   name: "23-November",
+          // },
+          // {
+          //   id: 24,
+          //   name: "24-November",
+          // },
+          // {
+          //   id: 25,
+          //   name: "25-November",
+          // },
+          // {
+          //   id: 26,
+          //   name: "26-November",
+          // },
+          // {
+          //   id: 27,
+          //   name: "27-November",
+          // },
+          // {
+          //   id: 28,
+          //   name: "28-November",
+          // },
+          // {
+          //   id: 29,
+          //   name: "29-November",
+          // },
           // {
           //   id: 30,
-          //   name: "13-April",
-          //   // title:
-          //   //   "General Assembly adopts resolution A/RES/77/23 of 30 November 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-          //   // date: "8-November-2023",
-          //   image:
-          //     "https://assets-news.asharq.com/images/articles/416x312/4-3/lTbHA9kIgH_1713082024.jpg",
-          //   desc: "On April 13, 2024, the Iranian Revolutionary Guard, in coordination with the Iraqi Popular Mobilization Forces, the Lebanese Hezbollah and the Yemeni Houthi Ansar Allah, launched limited air military attacks using drones and a number of ballistic missiles on Israel. Named Operation Al-Waad Al-Sadiq (Persian: His Promise Sadiq), this offensive campaign was a response to the Israeli air strike on the Iranian consulate in Damascus on April 1, which killed 16 people, including a senior Iranian Quds Force official, and was Iran's first direct attack on Israel. Since the beginning of the Iranian-Israeli proxy war.",
-          //   readMore:
-          //     "hhttps://en.wikipedia.org/wiki/2024_Iranian_strikes_in_Israel",
+          //   name: "30-November",
           // },
         ],
       },
@@ -1857,386 +1556,386 @@ export const events = ref([
         title: "The Battle of Al-Aqsa Flood (continue ...)",
         color: "#6e3428",
         year: "2024",
-        date: "1-January-2024",
+        // date: "1-January-2024",
         // image: 'https://www.prc.ps/wp-content/uploads/2018/06/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1.png',
         // desc: 'During the decade from 1958 to 1968, a foundational development occurred in modern Palestinian history. It started as the notion of creating a Palestinian political entity emerged and took shape in the Palestine Liberation Organization (PLO), and as Palestinians on the grassroots level organized themselves in groups and cells calling for armed struggle against Israel. By 1968, guerrilla organizations controlled the PLO and transformed it from a mere handmaid of Arab regimes to an independent and mobilizing decision-maker.',
         // readMore: 'https://www.palquest.org/en/highlight/162/palestine-liberation-organization-i',
-        months: [
-          //January
-          {
-            id: 1,
-            name: "1-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 2,
-            name: "2-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-October-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 3,
-            name: "3-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-October-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 4,
-            name: "4-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 5,
-            name: "5-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 6,
-            name: "6-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 7,
-            name: "7-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 8,
-            name: "8-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 9,
-            name: "9-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 10,
-            name: "10-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 11,
-            name: "11-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 12,
-            name: "12-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 13,
-            name: "13-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 14,
-            name: "14-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 15,
-            name: "15-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 16,
-            name: "16-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 17,
-            name: "17-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 18,
-            name: "18-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 19,
-            name: "19-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 20,
-            name: "20-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 21,
-            name: "21-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 22,
-            name: "22-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 23,
-            name: "23-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 24,
-            name: "24-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 25,
-            name: "25-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 26,
-            name: "26-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 27,
-            name: "27-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 28,
-            name: "28-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 29,
-            name: "29-January",
-            // title:
-            //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
-            // date: '7-January-2023',
-            // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
-            // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
-            // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
-          },
-          {
-            id: 30,
-            name: "30-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
-          {
-            id: 31,
-            name: "31-January",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
-            // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
-            // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
-          },
+        // months: [
+        //   //January
+        //   {
+        //     id: 1,
+        //     name: "1-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-October-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 2,
+        //     name: "2-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-October-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 3,
+        //     name: "3-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-October-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 4,
+        //     name: "4-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 5,
+        //     name: "5-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 6,
+        //     name: "6-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 7,
+        //     name: "7-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 8,
+        //     name: "8-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 9,
+        //     name: "9-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 10,
+        //     name: "10-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 11,
+        //     name: "11-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 12,
+        //     name: "12-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 13,
+        //     name: "13-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 14,
+        //     name: "14-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 15,
+        //     name: "15-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 16,
+        //     name: "16-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 17,
+        //     name: "17-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 18,
+        //     name: "18-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 19,
+        //     name: "19-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 20,
+        //     name: "20-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 21,
+        //     name: "21-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 22,
+        //     name: "22-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 23,
+        //     name: "23-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 24,
+        //     name: "24-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 25,
+        //     name: "25-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 26,
+        //     name: "26-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 27,
+        //     name: "27-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 28,
+        //     name: "28-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 29,
+        //     name: "29-January",
+        //     // title:
+        //     //   "General Assembly requests ICJ Advisory Opinion on the legal implications of the prolonged Israeli occupation",
+        //     // date: '7-January-2023',
+        //     // image: 'https://s.france24.com/media/display/cb20c3a4-0e94-11e9-8187-005056a964fe/w:1280/p:4x3/Gaza-2_m_0.jpg',
+        //     // desc: 'In 2008, the Free Gaza Movement was founded by a coalition of human rights activists to fight Israel’s blockade. Today, the group is a registered charity and endorsed by a several prominent international figures, including South African Archbishop Desmond Tutu and Nobel Peace Prize laureate Mairead Corrigan Maguire.',
+        //     // readMore: 'https://remix.aljazeera.com/aje/PalestineRemix/mobile/films/gaza-we-are-coming/'
+        //   },
+        //   {
+        //     id: 30,
+        //     name: "30-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
+        //   {
+        //     id: 31,
+        //     name: "31-January",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Orphanschoolmosque.jpg/1024px-Orphanschoolmosque.jpg',
+        //     // desc: 'The Gaza War, also known as Operation Cast Lead (Hebrew: מִבְצָע עוֹפֶרֶת יְצוּקָה), also known as the Gaza Massacre (Arabic: مجزرة غزة), and referred to as the Battle of al-Furqan (معركة الفرقان) by Hamas, was a three-week armed conflict between Gaza Strip Palestinian paramilitary groups and the Israel Defense Forces (IDF) that began on 27 December 2008 and ended on 18 January 2009 with a unilateral ceasefire. The conflict resulted in 1,166–1,417 Palestinian and 13 Israeli deaths. Over 46,000 homes were destroyed in Gaza, making more than 100,000 people homeless.',
+        //     // readMore: 'https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)'
+        //   },
 
-          //April
-          {
-            id: 30,
-            name: "13-April",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            image:
-              "https://assets-news.asharq.com/images/articles/416x312/4-3/lTbHA9kIgH_1713082024.jpg",
-            desc: "On April 13, 2024, the Iranian Revolutionary Guard, in coordination with the Iraqi Popular Mobilization Forces, the Lebanese Hezbollah and the Yemeni Houthi Ansar Allah, launched limited air military attacks using drones and a number of ballistic missiles on Israel. Named Operation Al-Waad Al-Sadiq (Persian: His Promise Sadiq), this offensive campaign was a response to the Israeli air strike on the Iranian consulate in Damascus on April 1, which killed 16 people, including a senior Iranian Quds Force official, and was Iran's first direct attack on Israel. Since the beginning of the Iranian-Israeli proxy war.",
-            readMore:
-              "hhttps://en.wikipedia.org/wiki/2024_Iranian_strikes_in_Israel",
-          },
-          {
-            id: 30,
-            name: "24-April",
-            // title:
-            //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
-            // date: "8-January-2023",
-            // image:
-            //   "https://assets-news.asharq.com/images/articles/416x312/4-3/lTbHA9kIgH_1713082024.jpg",
-            // desc: "On April 13, 2024, the Iranian Revolutionary Guard, in coordination with the Iraqi Popular Mobilization Forces, the Lebanese Hezbollah and the Yemeni Houthi Ansar Allah, launched limited air military attacks using drones and a number of ballistic missiles on Israel. Named Operation Al-Waad Al-Sadiq (Persian: His Promise Sadiq), this offensive campaign was a response to the Israeli air strike on the Iranian consulate in Damascus on April 1, which killed 16 people, including a senior Iranian Quds Force official, and was Iran's first direct attack on Israel. Since the beginning of the Iranian-Israeli proxy war.",
-            // readMore:
-            //   "hhttps://en.wikipedia.org/wiki/2024_Iranian_strikes_in_Israel",
-            descArray: [
-              {
-                id: 1,
-                text: "Biden approved new aid to Israel worth $26 billion and said: “It is in the interest of American national security, and the transfer of aid will take place within hours.”",
-              },
-              {
-                id: 2,
-                text: "World Food Program (WFP): A complete famine is imminent, and famine standards will be fully achieved in the rest of the sector within six weeks.",
-              },
-              {
-                id: 3,
-                text: "The number of bodies of martyrs recovered in the Nasser Medical Complex has risen to 342, and the European Union demands an independent investigation into the mass graves discovered.",
-              },
-              {
-                id: 4,
-                text: "Al-Qassam published a video of an Israeli prisoner, “Hersch Goldberg Pauline,” he criticizes what he described as Netanyahu and his government’s neglect of the prisoners and demands that he work to release him.",
-              },
-              {
-                id: 5,
-                text: "The families of the Israeli prisoners escalate their protests and accuse Netanyahu of disrupting the exchange deal because of his political interests, and security force disperses the protests in Jerusalem.",
-              },
-              {
-                id: 6,
-                text: 'Fierce battles in the north and center of the Gaza Strip, and Al-Qassam publishes a video of an Israeli soldier being sniped in “Beit Hanoun” in the north of the Gaza Strip.'
-              },
-              {
-                id: 7,
-                text: "The bombing escalated on both sides of the Lebanese-Israeli border. Hezbollah announced attacking several Israeli forces positions and bombing the “Shomera” settlement with dozens of missiles, and the Israeli army was bombed several towns in southern Lebanon.",
-              },
-              {
-                id: 8,
-                text: 'The popular student movement expanded in American universities in rejection of the war on Gaza, and  the Speaker of the US House of Representatives called on the President of Columbia University to resign unless she controlled what he described as anti-Semitic activities. Where The university administration extended the period granted to students to disperse their sit-in, and confrontations between security, students, and Arrests at universities in California and Texas, Netanyahu describes the protests as horrific and calls on the American authorities to make efforts to confront them.',
-                // image: '',
-                video: 'https://twitter.com/i/status/1781025459465011589'
+        //   //April
+        //   {
+        //     id: 30,
+        //     name: "13-April",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     image:
+        //       "https://assets-news.asharq.com/images/articles/416x312/4-3/lTbHA9kIgH_1713082024.jpg",
+        //     desc: "On April 13, 2024, the Iranian Revolutionary Guard, in coordination with the Iraqi Popular Mobilization Forces, the Lebanese Hezbollah and the Yemeni Houthi Ansar Allah, launched limited air military attacks using drones and a number of ballistic missiles on Israel. Named Operation Al-Waad Al-Sadiq (Persian: His Promise Sadiq), this offensive campaign was a response to the Israeli air strike on the Iranian consulate in Damascus on April 1, which killed 16 people, including a senior Iranian Quds Force official, and was Iran's first direct attack on Israel. Since the beginning of the Iranian-Israeli proxy war.",
+        //     readMore:
+        //       "hhttps://en.wikipedia.org/wiki/2024_Iranian_strikes_in_Israel",
+        //   },
+        //   {
+        //     id: 30,
+        //     name: "24-April",
+        //     // title:
+        //     //   "General Assembly adopts resolution A/RES/77/23 of 30 January 2022 requesting the Committee to Commemorate the 75th anniversary of the Nakba for the first time in the history of the UN",
+        //     // date: "8-January-2023",
+        //     // image:
+        //     //   "https://assets-news.asharq.com/images/articles/416x312/4-3/lTbHA9kIgH_1713082024.jpg",
+        //     // desc: "On April 13, 2024, the Iranian Revolutionary Guard, in coordination with the Iraqi Popular Mobilization Forces, the Lebanese Hezbollah and the Yemeni Houthi Ansar Allah, launched limited air military attacks using drones and a number of ballistic missiles on Israel. Named Operation Al-Waad Al-Sadiq (Persian: His Promise Sadiq), this offensive campaign was a response to the Israeli air strike on the Iranian consulate in Damascus on April 1, which killed 16 people, including a senior Iranian Quds Force official, and was Iran's first direct attack on Israel. Since the beginning of the Iranian-Israeli proxy war.",
+        //     // readMore:
+        //     //   "hhttps://en.wikipedia.org/wiki/2024_Iranian_strikes_in_Israel",
+        //     descArray: [
+        //       {
+        //         id: 1,
+        //         text: "Biden approved new aid to Israel worth $26 billion and said: “It is in the interest of American national security, and the transfer of aid will take place within hours.”",
+        //       },
+        //       {
+        //         id: 2,
+        //         text: "World Food Program (WFP): A complete famine is imminent, and famine standards will be fully achieved in the rest of the sector within six weeks.",
+        //       },
+        //       {
+        //         id: 3,
+        //         text: "The number of bodies of martyrs recovered in the Nasser Medical Complex has risen to 342, and the European Union demands an independent investigation into the mass graves discovered.",
+        //       },
+        //       {
+        //         id: 4,
+        //         text: "Al-Qassam published a video of an Israeli prisoner, “Hersch Goldberg Pauline,” he criticizes what he described as Netanyahu and his government’s neglect of the prisoners and demands that he work to release him.",
+        //       },
+        //       {
+        //         id: 5,
+        //         text: "The families of the Israeli prisoners escalate their protests and accuse Netanyahu of disrupting the exchange deal because of his political interests, and security force disperses the protests in Jerusalem.",
+        //       },
+        //       {
+        //         id: 6,
+        //         text: 'Fierce battles in the north and center of the Gaza Strip, and Al-Qassam publishes a video of an Israeli soldier being sniped in “Beit Hanoun” in the north of the Gaza Strip.'
+        //       },
+        //       {
+        //         id: 7,
+        //         text: "The bombing escalated on both sides of the Lebanese-Israeli border. Hezbollah announced attacking several Israeli forces positions and bombing the “Shomera” settlement with dozens of missiles, and the Israeli army was bombed several towns in southern Lebanon.",
+        //       },
+        //       {
+        //         id: 8,
+        //         text: 'The popular student movement expanded in American universities in rejection of the war on Gaza, and  the Speaker of the US House of Representatives called on the President of Columbia University to resign unless she controlled what he described as anti-Semitic activities. Where The university administration extended the period granted to students to disperse their sit-in, and confrontations between security, students, and Arrests at universities in California and Texas, Netanyahu describes the protests as horrific and calls on the American authorities to make efforts to confront them.',
+        //         // image: '',
+        //         video: 'https://twitter.com/i/status/1781025459465011589'
                 
-              },
-            ],
-          },
-        ],
+        //       },
+        //     ],
+        //   },
+        // ],
       },
     ],
   },

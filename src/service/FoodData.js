@@ -48,7 +48,6 @@ export const items = ref([
     id: 1,
     name: "Falafel",
     img: "https://tastythriftytimely.com/wp-content/uploads/2023/06/Falafel-FEATURED.jpg",
-    place: "Gaza",
     type: "STREET FOOD",
     desc: "Even though these protein-packed chickpea fritters are listed as one of Israels national dishes, and are a staple in many Middle Eastern countries including Palestine and Lebanon, it is often suggested that falafel might have evolved from the Egypt dish known as taameya. By the 1950s, t...",
     fullDesc:
@@ -103,12 +102,10 @@ export const items = ref([
       { name: "Lebanon", code: "LB" },
       { name: "Syria", code: "SY" },
       { name: "Iraq", code: "IQ" },
-
       { name: "Yemen", code: "YE" },
       { name: "Sudan", code: "SD" },
       { name: "Djibouti", code: "DJ" },
       { name: "Somalia", code: "SO" },
-
       { name: "Turkey", code: "TR" },
     ],
   },
@@ -116,7 +113,6 @@ export const items = ref([
     id: 2,
     name: "Mujaddara",
     img: Mujaddara,
-    place: "Jerusalem/Qatana",
     type: "RICE DISH",
     desc: "The vegetarian combination of lentils and rice is a classic Levantine fare that is best served with fresh salads. The dish is assembled with cooked rice and lentils that are enriched with generous amounts of onions sautéed in olive oil. When served, the combination is topped with fried oni...",
     fullDesc:
@@ -164,7 +160,6 @@ export const items = ref([
       { name: "Lebanon", code: "LB" },
       { name: "Syria", code: "SY" },
       { name: "Iraq", code: "IQ" },
-
       { name: "Cyprus", code: "CY" },
     ],
   },
@@ -172,7 +167,6 @@ export const items = ref([
     id: 3,
     name: "Taboon",
     img: Taboon,
-    place: "Nablus/Beta",
     type: "FLATBREAD",
     desc: "Taboon is a Middle Eastern flatbread that is traditionally baked in a clay oven, giving the bread its characteristical bubbly shape. It consists of flour, water, yeast, and sugar. The bread is commonly sold on the streets, stuffed with falafel, shredded meat, or hummus. It is also often used for ...",
     fullDesc:
@@ -227,7 +221,6 @@ export const items = ref([
     id: 4,
     name: "Hummus",
     img: 'https://www.modernhoney.com/wp-content/uploads/2023/03/Hummus-4-scaled.jpg',
-    place: "Tulkarm/Nour Shams camp",
     type: "DIP",
     desc: "This internationally popular, beige-colored spread is traditionally made with mashed chickpeas, tahini sesame paste, lemon juice, and garlic. People across the world love hummus for its tangy flavor and the fact that it is filled with nutrients. When served, it is typically dressed with ...",
     fullDesc:
@@ -281,7 +274,7 @@ export const items = ref([
     id: 5,
     name: "Maqluba",
     img: Maqluba,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "RICE DISH",
     desc: "Maqluba is the national dish of Palestine, but it can also be found in Iraq, Syria, and Jordan. This layered one-pot dish has many versions, but the basic principle is to turn it upside down before serving, which is what the word maqluba means. The ingredients include ... ",
     fullDesc:
@@ -344,7 +337,7 @@ export const items = ref([
     id: 6,
     name: "Kunāfah",
     img: "https://cdn.tasteatlas.com/images/recipes/8c828e76840b4d128e53653c521e9977.jpg",
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "SWEET PASTRY",
     desc: "Kunāfah consists of two crunchy layers of shredded and buttered kataifi or knefe dough, filled with a luscious cheese cream that's often flavored with orange zest and cardamom, then drenched in a sugar syrup infused with lemon juice and orange blossom water. Turkish künefe ...",
     fullDesc:
@@ -403,7 +396,7 @@ export const items = ref([
     id: 7,
     name: "Qidreh",
     img: Qidreh,
-    place: "Gaza",
+    // place: "Gaza",
     type: "RICE DISH",
     desc: "Qidreh is a traditional Palestinian dish hailing from Hebron. It consists of meat (usually lamb, sometimes chicken) that's cooked with chickpeas and rice in a broth that's spiced with ingredients such as cumin, allspice, cardamom, black pepper, and turmeric. Other common ingredients include onion...",
     fullDesc:
@@ -465,13 +458,12 @@ export const items = ref([
         img: "https://cdn.iconscout.com/icon/premium/png-256-thumb/bay-leaf-3907950-3239080.png?f=webp",
       },
     ],
-    // countries: [{ name: "Jordan", code: "JO" }],
   },
   {
     id: 8,
     name: "Labneh",
     img: "https://www.simplyleb.com/wp-content/uploads/labneh_yogurt-3.jpg",
-    place: "Jerusalem/Qatana",
+    // place: "Jerusalem/Qatana",
     type: "DIP",
     desc: "Creamy texture and mild flavor are the main attributes of labneh; a traditional Middle Eastern strained yogurt that is prepared with yogurt and salt. No strict guidelines are used to produce it; plain full-fat yogurt is mixed with salt and left to strain for twelve to twenty-four hours. During st... ",
     fullDesc:
@@ -495,16 +487,13 @@ export const items = ref([
       { name: "The Middle East" },
       { name: "The Eastern Mediterranean" },
       { name: "Central Asia and South Asia" },
-      // { name: "Turkey", code: "TR" },
-      // { name: "Greece", code: "GR" },
-      // { name: "Cyprus", code: "CY" },
     ],
   },
   {
     id: 9,
     name: "Musakhan",
     img: Musakhan,
-    place: "Nablus/Beta",
+    // place: "Nablus/Beta",
     type: "CHICKEN DISH",
     desc: "Musakhan is a Palestinian dish consisting of roasted chicken and caramelized onions that are garnished with pine nuts and arranged on top of taboon bread that's previously been dipped in olive oil. The name of the dish comes from the Arabic word sakhan, which once translated, re...",
     fullDesc:
@@ -561,13 +550,12 @@ export const items = ref([
         img: Bred,
       },
     ],
-    // countries: [{ name: "Jordan", code: "JO" }],
   },
   {
     id: 10,
     name: "Shakshouka",
     img: Shakshouka,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "EGG DISH",
     desc: "Shakshouka is a delicious combination of eggs poached in a spicy tomato sauce. Although it has an unusual name, the dish is straightforward and easy to make. It is usually made in a skillet in which onions, tomatoes, and spices are cooked until they form a delicious tomato sauce. Eggs ...",
     fullDesc:
@@ -616,11 +604,6 @@ export const items = ref([
     ],
     countries: [
       { name: "Jordan", code: "JO" },
-      // { name: "Lebanon", code: "LB" },
-      // { name: "Syria", code: "SY" },
-      // { name: 'Turkey', code: 'TR' },
-      // { name: 'Greece', code: 'GR' },
-      // { name: 'Cyprus', code: 'CY' },
       { name: "Egypt", code: "EG" },
       { name: "Algeria", code: "DZ" },
       { name: "Libya", code: "LY" },
@@ -633,7 +616,7 @@ export const items = ref([
     id: 11,
     name: "Makdous",
     img: Makdous,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "VEGETABLE DISH",
     desc: "Oil-cured eggplants are a staple throughout Levantine and Middle Eastern cuisine. The dish is traditionally prepared with small-sized baby eggplants that are shortly boiled and stuffed with a flavorful mixture of roasted red peppers, walnuts, garlic, and salt. The eggplants are then cured in oliv...",
     fullDesc:
@@ -670,7 +653,7 @@ export const items = ref([
     id: 12,
     name: "Rain Rice",
     img: RainRice,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "RICE DISH",
     desc: "Rain rice is a traditional rice dish originating from Palestine. Its made with a simple combination of jasmine rice, raisins, and cinnamon. The rice is boiled with raisins and broken cinnamon sticks over low heat. When fully cooked and the grains separate easily, the dish is taken off the heat a...",
     fullDesc:
@@ -697,7 +680,7 @@ export const items = ref([
     id: 13,
     name: "Qizha",
     img: Qizha,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "SPREAD",
     desc: "Qizha is a rare Palestinian paste that's thick in consistency and ink black in color. It's a specialty of the city of Nablus. Popularly called black tahini, it's made from ground nigella seeds. The seeds are soaked in water, roasted in the oven, dried in the sun, then ground into a paste, which i...",
     fullDesc:
@@ -754,7 +737,7 @@ export const items = ref([
     id: 14,
     name: "Arayes",
     img: Arayes,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "SNACK",
     desc: "Arayes, translated from Arabic as brides, is a convenient snack consisting of pita bread filled with a mixture of minced meat that is seasoned and enriched with garlic, onions, and tomatoes. The bread is typically cut in quarters and then spread with lamb or beef before it is coated in o...",
     fullDesc:
@@ -832,7 +815,7 @@ export const items = ref([
     id: 15,
     name: "Ma'amoul",
     img: Maamoul,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "COOKIE",
     desc: "Ma\'amoul is an ancient cookie filled with fruits and nuts such as dates, walnuts, and pistachios. The Ma\'amouls are traditionally prepared for Eid al-Fitr and Eid al-Adha, and they are typically shaped into balls or domes. To differentiate the cookies, the walnut version is usually...",
     fullDesc:
@@ -891,7 +874,7 @@ export const items = ref([
     id: 16,
     name: "Mutabal",
     img: Mutabal,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "DIP",
     desc: "Mutabal is a Middle Eastern dip that's usually made with a combination of roasted eggplants, tahini, lemon juice, garlic, yogurt, olive oil, and salt. The ingredients are blended or mashed together until the dip develops a desired consistency, either smooth or a bit more coarse. O...",
     fullDesc:
@@ -950,7 +933,7 @@ export const items = ref([
     id: 17,
     name: "Shishbarak",
     img: Shishbarak,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "DUMPLINGS",
     desc: "This combination of meat-stuffed dumplings and yogurt is common in Levantine cuisine. The dish consists of tiny dumplings—believed to have originated in Iran under the name joshpara—that are filled with a combination of meat and onions. The dumplings are cooked in yogurt that...",
     fullDesc:
@@ -1050,7 +1033,7 @@ export const items = ref([
     id: 18,
     name: "Sumaghiyyeh",
     img: "https://maktoobmedia.com/wp-content/uploads/2023/04/2D6C1E8F-5779-4E55-A7FC-DC9D5043927B.jpeg",
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "DIP",
     desc: "Sumaghiyyeh is a traditional Palestinian dish originating from Gaza City. It's made with a combination of sumac-infused water, tahini, and flour. The ingredients are mixed together, and the mixture is then added to cooked meat (usually beef), herbs, sliced chard, garbanzo beans ...",
     fullDesc:
@@ -1142,7 +1125,7 @@ export const items = ref([
     id: 19,
     name: "Rummaneyye",
     img: Rummaneyye,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "VEGETABLE DISH",
     desc: "Rummaneyye is a traditional Palestinian dish made with a combination of lentils, eggplants, olive oil, garlic, flour, pomegranate juice, cumin, and coriander. The lentils, eggplant cubes, salt, pepper, and cumin are cooked until tender. The garlic, coriander, and flour are fried in olive oil, and...",
     fullDesc:
@@ -1194,17 +1177,12 @@ export const items = ref([
         img: Salt,
       },
     ],
-    // countries: [
-    //   { name: "Jordan", code: "JO" },
-    //   { name: "Syria", code: "SY" },
-    //   { name: "Lebanon", code: "LB" },
-    // ],
   },
   {
     id: 20,
     name: "Khobeizeh",
     img: Khobeizeh,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "VEGETABLE DISH",
     desc: "Khobeizeh is a traditional Middle Eastern dish and a specialty of Palestine. The dish is made with a combination of khobeizeh leaves, olive oil, garlic, onions, and lemon juice. In order to prepare it, the khobeizeh leaves are rinsed and sautéed in olive oil with onions, garlic, and salt... ",
     fullDesc:
@@ -1240,7 +1218,6 @@ export const items = ref([
       { name: "Algeria", code: "DZ" },
       { name: "Libya", code: "LY" },
       { name: "Morocco", code: "MA" },
-
       { name: "Georgia", code: "GE" },
       { name: "Armenia", code: "AM" },
       { name: "Azerbaijan", code: "AZ" },
@@ -1250,7 +1227,7 @@ export const items = ref([
     id: 21,
     name: "Galayet bandora",
     img: "https://i0.wp.com/media.zeinaskitchen.se/2020/06/galayet-bandora-13-scaled.jpg?resize=1920%2C2170&ssl=1",
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "VEGAN DISH",
     desc: "Galayet bandora or qalayet bandora is a traditional dish originating from Jordan and Palestine. The dish is usually made with a combination of tomatoes, onions, garlic, olive oil, hot peppers, and salt. The ingredients are simply cooked in olive oil and the dish is then enjoyed with warm pita bre...",
     fullDesc:
@@ -1297,7 +1274,7 @@ export const items = ref([
     id: 22,
     name: "Shulbato",
     img: Shulbato,
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "SIDE DISH",
     desc: "Shulbato is a traditional Palestinian dish made with a combination of cooked bulgur, eggplants, green peppers, and tomatoes. The recipes are not set in stone and each family has its own twist – some replace eggplants with zucchini, some replace bulgur with rice, and others add beef or chick... ",
     fullDesc:
@@ -1369,7 +1346,7 @@ export const items = ref([
     id: 23,
     name: "Mahshi lift",
     img: "https://www.ounousa.com/wp-content/uploads/2020/05/150318083901572.jpg",
-    place: "Tulkarm/Nour Shams camp",
+    // place: "Tulkarm/Nour Shams camp",
     type: "RICE DISH",
     desc: "Mahshi lift is a traditional Palestinian dish originating from Hebron. The dish consists of stuffed turnips with sumac, and the list of ingredients includes beef, turnips, rice, sumac, tamarind paste, and spices such as black pepper, cardamom, cinnamon, and cloves. The rice is soaked in hot water...",
     fullDesc:
@@ -1426,7 +1403,6 @@ export const items = ref([
     id: 24,
     name: "Qatayef",
     img: Qatayef,
-    // place: "Tulkarm/Nour Shams camp",
     type: "SWEET PASTRY",
     desc: "Qatayef is believed to be of Fatimid origin. Some believe that qatayef is the creation of the Fatimid Dynasty, however, their history dates back to the Abbasid Caliphate, 750–1258 CE. Qatayef was mentioned in a tenth-century Arabic cookbook dates back to  ...",
     fullDesc:
@@ -1460,7 +1436,6 @@ export const items = ref([
       {
         id: 6,
         name: "Yeast",
-        // img: 'https://cdn-icons-png.flaticon.com/512/8008/8008184.png'
         img: "https://cdn.tasteatlas.com/images/ingredientgroups/805b01e32cd74f6fbdc87146dbad384f.png?h=120&w=120",
       },
       {
@@ -1490,7 +1465,6 @@ export const items = ref([
     id: 25,
     name: "Ka’ak Al-Quds (Jerusalem bread)",
     img: 'https://darnamag.wordpress.com/wp-content/uploads/2015/09/jerusalem-kaek-darna-magazine.jpg',
-    // place: "Tulkarm/Nour Shams camp",
     type: "SANDWICH",
     desc: "There is not a corner in the Old City of Jerusalem without an Arab bakery or a kiosk selling ka’ak, the name of which has stuck to the city that has been famous for it for hundreds of years. Ka’ak spread in the Holy City during the visit of Roxlan, the Russian wife of ...",
     fullDesc:
@@ -1527,18 +1501,12 @@ export const items = ref([
         img: SesameSeed,
       },
     ],
-    // countries: [
-    //   { name: "Jordan", code: "JO" },
-    //   { name: "Syria", code: "SY" },
-    //   { name: "Lebanon", code: "LB" },
-    //   { name: "Egypt", code: "EG" },
-    // ],
   },
   {
     id: 26,
     name: "Saj bread",
     img: 'https://cdn.alweb.com/thumbs/3ajeen/article/fit727x484/1/%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B6%D9%8A%D8%B1-%D8%AE%D8%A8%D8%B2-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B2%D9%84.jpeg',
-    // place: "Tulkarm/Nour Shams camp",
+    place: "Tulkarm/Nour Shams camp",
     type: "FLATBREAD",
     desc: "Bread varieties are distinguished by their diversity and difference, in the way they are prepared, their taste, and the way they are presented. Saj bread, or as it is also called shrak bread in some regions, is one of the types of bread that people love. This bread is one of the types of Ottoman ...",
     fullDesc:
@@ -1574,7 +1542,6 @@ export const items = ref([
     id: 27,
     name: "Shawarma",
     img: 'https://www.echoroukonline.com/wp-content/uploads/2022/12/%D8%B4%D8%A7%D9%88%D8%B1%D9%85%D8%A7.jpg',
-    // place: "Tulkarm/Nour Shams camp",
     type: "STREET FOOD",
     desc: "Shawarma is a Middle Eastern dish that originated in the Levant region of the Arab world during the Ottoman Empire, consisting of meat that is cut into thin slices, stacked in an inverted cone, and roasted on a slow-turning vertical spit. Traditionally made with lamb or mutton, it may ...",
     fullDesc:
@@ -1634,7 +1601,6 @@ export const items = ref([
     id: 28,
     name: "Malabi",
     img: 'https://modo3.com/thumbs/fit630x300/100259/1589483207/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%B5%D9%86%D8%B9_%D8%A7%D9%84%D9%85%D9%87%D9%84%D8%A8%D9%8A%D8%A9.jpg',
-    // place: "Tulkarm/Nour Shams camp",
     type: "PUDDING",
     desc: "Mehalabiya is a creamy Arabian dessert, in many ways similar to the French blancmange. It is made with a mixture of milk and sugar, cooked and thickened with rice flour or cornstarch, and usually flavored with orange blossom or rose water. While hot, it is distributed ...",
     fullDesc:
@@ -1676,7 +1642,6 @@ export const items = ref([
       { name: "Syria", code: "SY" },
       { name: "Lebanon", code: "LB" },
       { name: "Iraq", code: "IQ" },
-      // { name: "Turkey", code: "TR" },
       { name: "Egypt", code: "EG" },
       { name: "Algeria", code: "DZ" },
       { name: "Libya", code: "LY" },
@@ -1688,7 +1653,6 @@ export const items = ref([
     id: 29,
     name: "Maftool",
     img: 'https://www.assawsana.com/portal/image/imgid457871.jpg?',
-    // place: "Tulkarm/Nour Shams camp",
     type: "RICE DISH",
     desc: "Maftoul, or Moroccan maftoul, is one of the popular Levantine dishes consisting of small maftoul granules or balls prepared from bulgur, white and brown flour, which are prepared manually at home, or bought ready-made. In some regions it is called maftoul, after rolling balls ...",
     fullDesc:
@@ -1746,7 +1710,6 @@ export const items = ref([
     id: 30,
     name: "Grape leaves",
     img: 'https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSRaE0xOFlIHewEP9ztk9ltimupJYh0QbYeo8H6HCW_lvDM8IX6JApD2Bz6ZIWr71mC',
-    // place: "Tulkarm/Nour Shams camp",
     type: "RICE DISH",
     desc: "Grape leaves (or yabrak, or dawali leaves, or Lebanese areesh leaves, or dolma, or dulma, or ylangi, or cabbage) is a dish consisting of wrapped grape leaves and other plants stuffed with rice, vegetables, spices, sometimes meat, and others. The origin of this dish dates ...",
     fullDesc:

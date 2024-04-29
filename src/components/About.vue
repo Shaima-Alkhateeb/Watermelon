@@ -20,13 +20,11 @@
                     culinary delights, Watermelon offers an immersive journey into the heart and soul of Palestine.
                 </p> <br>
                 <p>
-
                     Discover captivating narratives on Palestine's history and delve into its diverse culinary
                     landscape. Whether you're intrigued by ancient tales or eager to savor traditional dishes,
                     Watermelon provides a curated experience that celebrates the essence of Palestine.
                 </p><br>
                 <p>
-
                     While our platform currently features sections on history and food, we're continuously expanding to
                     encompass all facets of Palestinian life. Join us on this enlightening adventure as we uncover the
                     beauty and complexity of Palestine's heritage.
@@ -37,7 +35,6 @@
                 <p>The motivation behind building this website stemmed from my discovery of misinformation regarding
                     Palestine. One striking example is the misconception that falafel, a beloved staple of Palestinian
                     cuisine, is attributed to the occupying country rather than its true origin.
-
                 </p><br>
                 <p>
                     Furthermore, I felt compelled to deepen my understanding of Palestine's rich history and heritage,
@@ -53,13 +50,10 @@
                     which I utilized extensively for historical
                     insights and content in the history section.
                 </p><br>
-
                 <p>Additionally, <a class="underline " href="https://www.tasteatlas.com/">Tasteatlas</a> proved to be an
                     indispensable source of culinary
                     inspiration and information, enriching the food section of my project.
                 </p><br>
-
-
             </template>
         </Card>
     </div>

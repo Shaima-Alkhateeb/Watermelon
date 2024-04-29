@@ -1,4 +1,5 @@
 <template>
+    <!-- History -->
     <the-banner isHistory>
         <template #image>
             <img class="image" alt="Palestine"
@@ -13,8 +14,7 @@
             <h2 class="">A sequence of Palestinian History Since World War I</h2>
         </div> -->
         <div class="text-center m-12 sm:mx-2 xs:mx-2 text-xl">
-            <p class="sm:-mt-4 xs:-mt-4">Our timeline spans more than two centuries to explain the dramatic chain of events that led to the
-                establishment of a Jewish state in Palestine.
+            <p class="sm:-mt-4 xs:-mt-4">Our timeline extends over two centuries, chronicling the pivotal events that paved the way for the establishment of a Jewish state in Palestine. Dive into the rich tapestry of history as we unravel the dramatic chain of events that shaped the course of the region's destiny.
             </p>
         </div>
         <!-- smoll card in the head -->

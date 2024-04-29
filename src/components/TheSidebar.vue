@@ -4,7 +4,7 @@
             <p class="text-gray-500 mb-5 mt-6">{{ type }}</p>
             <div class="card flex justify-content-center">
                 <div class="flex flex-col">
-                    <Dropdown v-mode l="selectedCountry" :options="countries" optionLabel="name"
+                    <Dropdown :options="countries" optionLabel="name"
                         placeholde r="Palestine and " class="w-full md:w-14rem">
                         <template #value="slotProps">
                             <div v-if="slotProps.value" class="flex align-items-center">

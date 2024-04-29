@@ -1,13 +1,13 @@
 <template>
-    <div :class="isHero ? 'image-container-layout--hero' : 'image-container-layout'">
-        <slot name="image"></slot>
+  <div :class="isHero ? 'image-container-layout--hero' : 'image-container-layout'">
+    <slot name="image"></slot>
 
-        <div :class="titleHero ? 'image-overlay--hero' : 'image-overlay'">
-            <h1>
-                <slot name="title"></slot>
-            </h1>
-        </div>
+    <div :class="titleHero ? 'image-overlay--hero' : 'image-overlay'">
+      <h1>
+        <slot name="title"></slot>
+      </h1>
     </div>
+  </div>
 </template>
 
 <script>
@@ -21,10 +21,12 @@ export default {
       type: Boolean,
       default: false,
     },
-    isHistory: {
-      type: Boolean,
-      default: false,
-    },
+    // isHistory: {
+    //   type: Boolean,
+    //   default: false,
+    // },
+  },
+  computed: {
   },
 };
 </script>

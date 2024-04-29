@@ -1,10 +1,33 @@
-# Watermelon
+# 🍉 Watermelon
 
-Watermelon is a website that lets you learn more about the history, culture, food, and customs of Palestine.I created a section that talks about its history and food, and I am still working on the other parts.
+Watermelon is a vibrant and inclusive online platform dedicated to exploring the rich tapestry of
+Palestine's history, culture, cuisine, and traditions. From its storied past to its delicious
+culinary delights, Watermelon offers an immersive journey into the heart and soul of Palestine.
 
----
+Discover captivating narratives on Palestine's history and delve into its diverse culinary
+landscape. Whether you're intrigued by ancient tales or eager to savor traditional dishes,
+Watermelon provides a curated experience that celebrates the essence of Palestine.
 
-This template should help get you started developing with Vue 3 in Vite.
+While our platform currently features sections on history and food, we're continuously expanding to
+encompass all facets of Palestinian life. Join us on this enlightening adventure as we uncover the
+beauty and complexity of Palestine's heritage.
+
+The motivation behind building this website stemmed from my discovery of misinformation regarding
+Palestine. One striking example is the misconception that falafel, a beloved staple of Palestinian
+cuisine, is attributed to the occupying country rather than its true origin.
+
+Furthermore, I felt compelled to deepen my understanding of Palestine's rich history and heritage,
+driving me to create a platform where I could explore and share this knowledge with others.
+
+Throughout my research journey, I've been fortunate to discover several insightful and inspiring
+resources that have greatly contributed to my project. One such invaluable resource is
+[PALESTINE REMIX](https://remix.aljazeera.com/aje/PalestineRemix/"),
+which I utilized extensively for historical
+insights and content in the history section.
+
+Additionally, [Tasteatlas](https://www.tasteatlas.com/) proved to be an
+indispensable source of culinary
+inspiration and information, enriching the food section of my project.
 
 ## Recommended IDE Setup
 

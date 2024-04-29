@@ -12,7 +12,7 @@
                 <i class="pi pi-bars" style="cursor: pointer;"></i> 
             </template> -->
             <template #item="{ item, props, hasSubmenu, root }">
-                <a v-ripple class="flex align-items-center p-menubar-end" v-bind="props.action">
+                <a class="flex align-items-center p-menubar-end" v-bind="props.action">
                     <span :class="item.icon" />
                     <router-link :to="item.path ? item.path : '#' " style="text-decoration: none;">
 
