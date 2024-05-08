@@ -223,13 +223,28 @@ h2 {
   float: right;
 }
 
-/* .p-card-body {
-  padding: 0;
-} */
+.p-button.p-button-text.button-icon-home-page {
+  background-color: #f4960a;
+  color: #fff;
+  border-color: transparent;
+  margin-right: -1.5rem;
+  z-index: 10;
+  /* padding: 2rem; */
 
-/* .ml-85 {
-  margin-left: 21rem;
-} */
+}
+
+.p-button.button-home-page {
+  color: #111111;
+  background: #fff;
+  border: 1px solid #fff;
+  padding: 0.5rem 2rem;
+  font-size: 1rem;
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s,
+    box-shadow 0.2s, outline-color 0.2s;
+  border-radius: 20px;
+  outline-color: transparent;
+}
+
 
 .footer {
   background-color: #24262b;
