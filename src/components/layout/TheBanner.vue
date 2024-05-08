@@ -4,7 +4,11 @@
 
     <div :class="titleHero ? 'image-overlay--hero' : 'image-overlay'">
       <h1>
-        <slot name="title"></slot>
+        <slot name="title">
+          <p class="poetsen-one-regular">
+                PALESTINE
+            </p>
+        </slot>
       </h1>
     </div>
   </div>

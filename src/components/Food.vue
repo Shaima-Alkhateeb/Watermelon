@@ -6,7 +6,9 @@
                 src="https://cdn.tasteatlas.com/images/regions/f293fc54c7de4dd4a6b444f19c5dc2e7.jpg?mw=1900" />
         </template>
         <template #title>
-            PALESTINE
+            <p class="poetsen-one-regular">
+                PALESTINE
+            </p>
         </template>
     </the-banner>
 

@@ -62,7 +62,14 @@ hr {
   margin: 10px;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Khojki:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"); */
+/* @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap'); */
+
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 .image-container-layout {
   height: 320px;
@@ -71,7 +78,7 @@ hr {
 }
 
 .image-container-layout--hero {
-  height: 700px;
+  height: 775px;
   overflow: hidden;
   position: relative;
 }
@@ -114,7 +121,7 @@ hr {
 
 .image-overlay--hero {
   position: absolute;
-  top: 80%;
+  top: 73%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -215,6 +222,14 @@ h2 {
   -moz-osx-font-smoothing: grayscale;
   float: right;
 }
+
+/* .p-card-body {
+  padding: 0;
+} */
+
+/* .ml-85 {
+  margin-left: 21rem;
+} */
 
 .footer {
   background-color: #24262b;

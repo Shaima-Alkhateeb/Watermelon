@@ -5,8 +5,10 @@
             <img class="image" alt="Palestine"
                 src="https://images.unsplash.com/photo-1614517453351-6c1522fc7a56?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
         </template>
-        <template #title>
-            TIMELINE OF PALESTINE'S HISTORY
+        <template #title >
+            <p class="poetsen-one-regular">
+                TIMELINE OF PALESTINE'S HISTORY
+            </p>
         </template>
     </the-banner>
     <div class="container-around">
