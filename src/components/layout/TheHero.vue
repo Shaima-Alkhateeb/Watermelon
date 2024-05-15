@@ -13,14 +13,14 @@
     </template>
   </the-banner>
 
-  <div style="position: relative" class="dot pt-48 xs:pt-0 pb-36">
+  <div style="position: relative" class="dot pt-48 xs:pt-0 pb-36 md:pb-48">
     <!-- line -->
-    <!-- <img
+    <img
       alt="user header"
       src="../../assets/img/homepage/line3.png"
-      style="max-width: 70%; margin-top: 10rem"
-      class="absolute top-0 left-0 z-0"
-    /> -->
+      class="absolute top-0 left-0 z-0  2xl:w-8/12 xl:w-9/12 lg:w-9/12 md:w-full xl:mt-20 lg:mt-40 md:mt-56 md:block sm:hidden xs:hidden"
+    />
+    <!-- 2xl:block xl:block sm:hidden xs:hidden -->
 
     <!-- History Section -->
     <section class="pt-16">
@@ -82,7 +82,6 @@
         </div>
       </div>
     </section>
-
     <div class="flex flex-row justify-center my-10 drop-shadow-xl">
       <Button icon="pi pi-angle-double-right" text raised rounded aria-label="Filter" class="button-icon-home-page 2xl:p-8 md:p-8 sm:p-4 xs:p-4"  />
       <Button label="READ ABOUT HISTORY" rounded class="button-home-page" @click="ReadAboutHistory" />
@@ -100,7 +99,7 @@
       <div class="grid gap-x-8 gap-y-2 grid-cols-2 md:grid-cols-2 sm:grid-cols-1 xs:grid-cols-1 sm:my-3 xs:my-3">
         <div class="p-2.5 w-4/5 md:w-10/12 sm:w-11/12 xs:w-11/12 m-auto">
           <p
-            class="text-white 2xl:text-8xl xl:text-8xl lg:text-6xl md:text-6xl sm:text-4xl xs:text-3xl font-bold z-10 absolute poetsen-one-regular">
+            class="text-white 2xl:text-8xl xl:text-8xl lg:text-6xl md:text-6xl sm:text-4xl xs:text-3xl font-bold z-20 absolute poetsen-one-regular">
             Palestine food market
           </p>
           <p class="text-lg sm:text-lg xs:text-base text-white 2xl:mt-40 xl:mt-40 lg:mt-28 sm:mt-16 xs:mt-16">
@@ -122,13 +121,11 @@
           </p>
         </div>
 
-        <div class="p-2.5 m-auto z-9">
-          <img alt="user header" src="../../assets/img/homepage/fruit1.jpg" width="" class="rounded-2xl shadow-2xl"
-            style="" />
+        <div class="p-2.5 m-auto z-10">
+          <img alt="user header" src="../../assets/img/homepage/fruit1.jpg" width="" class="rounded-2xl shadow-2xl"/>
         </div>
       </div>
     </section>
-
     <div class="flex flex-row justify-center my-10 drop-shadow-xl">
       <Button icon="pi pi-angle-double-right" text raised rounded aria-label="Filter" class="button-icon-home-page 2xl:p-8 md:p-8 sm:p-4 xs:p-4"  />
       <Button label="READ ABOUT FOOD" rounded class="button-home-page" @click="ReadAboutFood" />
@@ -155,10 +152,10 @@
             'md:rounded-2xl': isMd || isSm || isXs,
             'rounded-r-2xl': !isMd && is2xl,
           }"
-            class="rounded-r-2xl 2xl:rounded-l-none xl:rounded-l-none lg:rounded-l-none md:rounded-l-2xl sm:rounded-l-2xl xs:rounded-l-2xl shadow-2xl 2xl:mt-60 xl:mt-60 lg:mt-60" />
-          <div class="2xl:col-span-2 xl:col-span-2 lg:col-span-2 2xl:ml-10 xl:ml-10 lg:ml-10 md:m-auto">
+            class="rounded-r-2xl 2xl:rounded-l-none xl:rounded-l-none lg:rounded-l-none md:rounded-l-2xl sm:rounded-l-2xl xs:rounded-l-2xl shadow-2xl 2xl:mt-60 xl:mt-60 lg:mt-60 z-10" />
+          <div class="2xl:col-span-2 xl:col-span-2 lg:col-span-2 2xl:ml-10 xl:ml-10 lg:ml-10 md:m-auto z-10">
             <img alt="Jerusalem in Eid prayer" src="../../assets/img/homepage/Jerusalem-in-Eid-prayer-final.png"
-              class="rounded-2xl shadow-2xl" />
+              class="rounded-2xl shadow-2xl " />
           </div>
           <div
             class="col-span-3 2xl:mt-28 xl:mt-28 lg:mt-28 2xl:ml-20 xl:ml-20 lg:ml-20 2xl:mr-20 xl:mr-20 lg:mr-20 md:m-10 md:my-5 xs:my-5">
@@ -181,9 +178,9 @@
             </p>
           </div>
           <img alt="candy" src="../../assets/img/homepage/candy-final.png"
-            class="rounded-2xl shadow-2xl 2xl:mt-0 xl:-mt-4 lg:mt-12 md:mt-0 2xl:ml-84 xl:ml-84 lg:ml-68 md:ml-1 2xl:col-span-2 xl:col-span-2 lg:col-span-2" />
+            class="rounded-2xl shadow-2xl 2xl:mt-0 xl:-mt-4 lg:mt-12 md:mt-0 2xl:ml-84 xl:ml-84 lg:ml-68 md:ml-1 2xl:col-span-2 xl:col-span-2 lg:col-span-2 z-10" />
           <img alt="Jerusalem in Eid" src="../../assets/img/homepage/Jerusalem-in-Eid-final.png"
-            class="rounded-2xl shadow-2xl 2xl:-mt-40 xl:-mt-20 lg:mt-1 2xl:ml-96 xl:ml-96 lg:ml-80 md:ml-0 sm:ml-auto xs:ml-auto 2xl:col-span-2 xl:col-span-2 lg:col-span-2" />
+            class="rounded-2xl shadow-2xl 2xl:-mt-40 xl:-mt-20 lg:mt-1 2xl:ml-96 xl:ml-96 lg:ml-80 md:ml-0 sm:ml-auto xs:ml-auto 2xl:col-span-2 xl:col-span-2 lg:col-span-2 z-10" />
         </div>
       </div>
     </section>
